@@ -15,7 +15,7 @@
 
 1. Clone o repositório:
 
-   `git clone https://github.com/seu-usuario/arara.git`
+   `git clone https://github.com/smath7506/arara.git`
 
 2. Navegue até o diretório da ferramenta:
 
