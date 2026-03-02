@@ -1,9 +1,9 @@
 # arara
-"feat: primeira versão da ARARA"
 
-**Arara** é uma ferramenta desenvolvida em Go para **automação de scans e testes de segurança** em plataformas populares como **Salesforce**, **ServiceNow**, e outras APIs REST. A ferramenta foi projetada para ser leve, rápida e intuitiva, permitindo que você realize testes de forma eficiente.
+**Arara** é uma ferramenta desenvolvida em Go para plataformas populares como **Salesforce**, **ServiceNow**, e outras APIs REST. A ferramenta foi projetada para ser leve, rápida e intuitiva, permitindo que você realize testes de forma eficiente.
 
-> **math7**: "Porque um arara nunca voa só. 
+O programa segue uma ideia matemática muito direta:
+f(x) → (y, e)
 
 ## Funcionalidades
 
@@ -25,4 +25,4 @@
 
    `go run arara.go`
 
-4. Forneça os parâmetros necessários e inicie o scan!
+E por ultimo, forneça os parâmetros necessários e inicie o scan!
