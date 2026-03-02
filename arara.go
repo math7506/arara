@@ -20,6 +20,14 @@ var apiPatterns = []string{
 	"https://%s.atlassian.net/rest/api/2/project",
 	"https://%s.azurewebsites.net/api/health",
 	"https://%s.zendesk.com/api/v2/users.json",
+	"https://%s.okta.com",
+	"https://%s.slack.com",
+	"https://%s.gitbook.io"
+	"https://%s.box.com",
+	"https://%s.hubspotpage.com",
+	"https://%s.myshopify.com",
+	"https://%s.statuspage.io",
+	"https://vpn.%s.com",
 	// (personalize sua lista aqui)
 }
 
